@@ -2,36 +2,45 @@ Certificate:
     Data:
         Version: 3 (0x2)
         Serial Number:
-            40:26:da:91:18:2b:77:9c:85:6a:0c:bb:ca:90:53:fe
+            58:c9:4d:31:44:e9:91:cc:1d:ab:60:ef:a9:fb:17:b3
         Signature Algorithm: sha256WithRSAEncryption
-        Issuer: CN=KobZ
+        Issuer: CN=DexterEskalarte-MediatekVpn
         Validity
-            Not Before: Jul 22 22:23:55 2020 GMT
-            Not After : Jul 20 22:23:55 2030 GMT
+            Not Before: Aug 19 09:35:49 2025 GMT
+            Not After : Aug 17 09:35:49 2035 GMT
         Subject: CN=server
         Subject Public Key Info:
             Public Key Algorithm: rsaEncryption
-                RSA Public-Key: (1024 bit)
+                Public-Key: (2048 bit)
                 Modulus:
-                    00:ce:35:23:d8:5d:9f:b6:9b:cb:6a:89:e1:90:af:
-                    42:df:5f:f8:bd:ad:a7:78:9a:ca:20:f0:3d:5b:d6:
-                    c9:ef:4c:4a:99:96:c3:38:fd:59:b4:d7:65:ed:d4:
-                    a7:fa:ab:03:e2:be:88:2f:ca:fc:90:dd:b0:b7:bc:
-                    23:cb:83:ac:36:e2:01:57:69:64:b8:e1:9e:51:f0:
-                    a6:9d:13:d9:92:6b:4d:04:a6:10:64:a3:3f:6b:ff:
-                    fe:32:ac:91:63:c2:71:24:be:9e:76:4f:87:cc:3a:
-                    03:a1:9e:48:3f:11:92:33:3b:19:16:9c:d0:5d:16:
-                    ee:c1:42:67:99:47:66:67:67
+                    00:b6:13:de:4c:de:f2:5a:15:ac:a3:c3:47:32:82:
+                    b4:51:cc:41:d8:84:f7:9e:2e:1f:75:ec:71:43:ae:
+                    f1:b7:0f:af:38:0a:df:74:fa:2a:e6:fe:4c:f1:db:
+                    0d:f6:da:ee:61:c9:f8:ce:0f:7b:ce:cb:20:c3:0c:
+                    c1:aa:fd:71:e1:c9:94:7b:2d:ef:05:62:88:da:23:
+                    06:84:fd:54:58:1d:0e:56:7e:2e:e1:9b:d2:96:75:
+                    fa:db:ce:7e:3f:33:d4:ec:0f:f3:15:bf:e3:8d:f3:
+                    40:1b:fe:0f:f6:cf:1b:10:cd:4a:87:0d:ac:58:b6:
+                    3d:af:6d:73:c8:71:9b:a1:a4:0c:9b:c7:b9:a0:9d:
+                    7e:ed:39:7a:c9:64:cf:7a:2f:97:e6:ed:48:be:72:
+                    59:c5:68:2f:3f:7e:37:37:38:09:70:59:7f:2d:c4:
+                    c0:50:77:e8:ba:a5:0b:54:13:28:12:41:48:19:b1:
+                    b8:1d:87:fe:d0:e4:18:89:f0:89:e2:1b:58:44:a2:
+                    75:64:73:7a:e5:2d:f7:5a:15:ea:d8:53:43:e5:ac:
+                    be:b1:57:71:ad:ab:6a:79:e4:88:31:b7:8c:86:c8:
+                    95:34:29:1a:7b:50:20:e2:98:04:58:c3:8b:cb:00:
+                    ab:92:a9:51:ea:02:9b:be:f9:8a:7b:e6:4f:f3:32:
+                    40:99
                 Exponent: 65537 (0x10001)
         X509v3 extensions:
             X509v3 Basic Constraints:
                 CA:FALSE
             X509v3 Subject Key Identifier:
-                6B:08:C0:64:10:71:A8:32:7F:0B:FE:1E:98:1F:BD:72:74:0F:C8:66
+                18:21:3A:B3:B4:DC:52:37:56:39:66:7B:CC:FD:F4:10:F3:5E:CA:18
             X509v3 Authority Key Identifier:
-                keyid:64:49:32:6F:FE:66:62:F1:57:4D:BB:91:A8:5D:BD:26:3E:51:A4:D2
-                DirName:/CN=KobZ
-                serial:01:A4:01:02:93:12:D9:D6:01:A9:83:DC:03:73:DA:ED:C8:E3:C3:B7
+                keyid:DF:CB:41:AE:60:48:F7:0F:C0:D1:0C:D0:4C:44:30:24:ED:9F:F6:1D
+                DirName:/CN=DexterEskalarte-MediatekVpn
+                serial:7D:CB:54:EA:7E:11:9C:4F:CA:A1:B1:98:CE:94:58:4B:35:9E:04:32
             X509v3 Extended Key Usage:
                 TLS Web Server Authentication
             X509v3 Key Usage:
@@ -39,45 +48,40 @@ Certificate:
             X509v3 Subject Alternative Name:
                 DNS:server
     Signature Algorithm: sha256WithRSAEncryption
-         a1:3e:ac:83:0b:e5:5d:ca:36:b7:d0:ab:d0:d9:73:66:d1:62:
-         88:ce:3d:47:9e:08:0b:a0:5b:51:13:fc:7e:d7:6e:17:0e:bd:
-         f5:d9:a9:d9:06:78:52:88:5a:e5:df:d3:32:22:4a:4b:08:6f:
-         b1:22:80:4f:19:d1:5f:9d:b6:5a:17:f7:ad:70:a9:04:00:ff:
-         fe:84:aa:e1:cb:0e:74:c0:1a:75:0b:3e:98:90:1d:22:ba:a4:
-         7a:26:65:7d:d1:3b:5c:45:a1:77:22:ed:b6:6b:18:a3:c4:ee:
-         3e:06:bb:0b:ec:12:ac:16:a5:50:b3:ed:46:43:87:72:fd:75:
-         8c:38
+    Signature Value:
+        7f:06:53:8f:75:8a:86:97:eb:11:cb:ae:91:c0:24:1d:d9:63:
+        ba:6d:f1:7c:b7:58:44:ff:34:60:05:df:bd:dd:9b:cd:fe:14:
+        4a:31:16:88:b6:e5:19:ac:5c:30:d7:94:b9:f8:14:f5:42:b4:
+        df:9b:4d:1c:96:44:b4:a5:e5:e7:ba:f7:cb:e3:44:70:0c:63:
+        9e:e1:ef:d6:9c:d4:40:59:c9:c2:25:e4:71:f1:61:87:ee:9b:
+        86:ef:e9:e3:b8:6c:db:15:73:b1:26:b8:c0:17:28:4d:b8:4f:
+        3b:62:87:ca:0a:f9:bc:a4:c6:f4:50:d1:9d:8a:f1:c2:ba:a5:
+        67:3e:ee:e4:58:2f:02:a1:75:4b:b4:0f:17:5a:e1:5d:cc:1d:
+        0c:9b:87:18:a1:59:5d:1f:32:89:31:32:43:e3:73:91:41:fb:
+        18:54:4f:bc:7d:50:b1:a6:c4:b2:27:fb:16:1e:34:43:ca:fe:
+        8f:33:dd:38:87:d0:9b:74:6a:e2:89:9b:5c:34:a0:a5:ea:36:
+        77:8b:b1:37:02:46:72:f7:dc:0a:79:41:ee:d5:7f:67:96:19:
+        db:65:a0:6f:82:46:b6:46:fc:89:3c:38:70:51:01:98:93:1d:
+        cf:4e:9f:41:77:ac:4a:a7:3b:fa:12:48:0f:de:a8:8d:00:f0:
+        0e:61:6b:17
 -----BEGIN CERTIFICATE-----
-MIICVDCCAb2gAwIBAgIQQCbakRgrd5yFagy7ypBT/jANBgkqhkiG9w0BAQsFADAP
-MQ0wCwYDVQQDDARLb2JaMB4XDTIwMDcyMjIyMjM1NVoXDTMwMDcyMDIyMjM1NVow
-ETEPMA0GA1UEAwwGc2VydmVyMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDO
-NSPYXZ+2m8tqieGQr0LfX/i9rad4msog8D1b1snvTEqZlsM4/Vm012Xt1Kf6qwPi
-vogvyvyQ3bC3vCPLg6w24gFXaWS44Z5R8KadE9mSa00EphBkoz9r//4yrJFjwnEk
-vp52T4fMOgOhnkg/EZIzOxkWnNBdFu7BQmeZR2ZnZwIDAQABo4GuMIGrMAkGA1Ud
-EwQCMAAwHQYDVR0OBBYEFGsIwGQQcagyfwv+HpgfvXJ0D8hmMEoGA1UdIwRDMEGA
-FGRJMm/+ZmLxV027kahdvSY+UaTSoROkETAPMQ0wCwYDVQQDDARLb2JaghQBpAEC
-kxLZ1gGpg9wDc9rtyOPDtzATBgNVHSUEDDAKBggrBgEFBQcDATALBgNVHQ8EBAMC
-BaAwEQYDVR0RBAowCIIGc2VydmVyMA0GCSqGSIb3DQEBCwUAA4GBAKE+rIML5V3K
-NrfQq9DZc2bRYojOPUeeCAugW1ET/H7XbhcOvfXZqdkGeFKIWuXf0zIiSksIb7Ei
-gE8Z0V+dtloX961wqQQA//6EquHLDnTAGnULPpiQHSK6pHomZX3RO1xFoXci7bZr
-GKPE7j4GuwvsEqwWpVCz7UZDh3L9dYw4
+MIIDhzCCAm+gAwIBAgIQWMlNMUTpkcwdq2DvqfsXszANBgkqhkiG9w0BAQsFADAm
+MSQwIgYDVQQDDBtEZXh0ZXJFc2thbGFydGUtTWVkaWF0ZWtWcG4wHhcNMjUwODE5
+MDkzNTQ5WhcNMzUwODE3MDkzNTQ5WjARMQ8wDQYDVQQDDAZzZXJ2ZXIwggEiMA0G
+CSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQC2E95M3vJaFayjw0cygrRRzEHYhPee
+Lh917HFDrvG3D684Ct90+irm/kzx2w322u5hyfjOD3vOyyDDDMGq/XHhyZR7Le8F
+YojaIwaE/VRYHQ5Wfi7hm9KWdfrbzn4/M9TsD/MVv+ON80Ab/g/2zxsQzUqHDaxY
+tj2vbXPIcZuhpAybx7mgnX7tOXrJZM96L5fm7Ui+clnFaC8/fjc3OAlwWX8txMBQ
+d+i6pQtUEygSQUgZsbgdh/7Q5BiJ8IniG1hEonVkc3rlLfdaFerYU0PlrL6xV3Gt
+q2p55Igxt4yGyJU0KRp7UCDimARYw4vLAKuSqVHqApu++Yp75k/zMkCZAgMBAAGj
+gcUwgcIwCQYDVR0TBAIwADAdBgNVHQ4EFgQUGCE6s7TcUjdWOWZ7zP30EPNeyhgw
+YQYDVR0jBFowWIAU38tBrmBI9w/A0QzQTEQwJO2f9h2hKqQoMCYxJDAiBgNVBAMM
+G0RleHRlckVza2FsYXJ0ZS1NZWRpYXRla1ZwboIUfctU6n4RnE/KobGYzpRYSzWe
+BDIwEwYDVR0lBAwwCgYIKwYBBQUHAwEwCwYDVR0PBAQDAgWgMBEGA1UdEQQKMAiC
+BnNlcnZlcjANBgkqhkiG9w0BAQsFAAOCAQEAfwZTj3WKhpfrEcuukcAkHdljum3x
+fLdYRP80YAXfvd2bzf4USjEWiLblGaxcMNeUufgU9UK035tNHJZEtKXl57r3y+NE
+cAxjnuHv1pzUQFnJwiXkcfFhh+6bhu/p47hs2xVzsSa4wBcoTbhPO2KHygr5vKTG
+9FDRnYrxwrqlZz7u5FgvAqF1S7QPF1rhXcwdDJuHGKFZXR8yiTEyQ+NzkUH7GFRP
+vH1QsabEsif7Fh40Q8r+jzPdOIfQm3Rq4ombXDSgpeo2d4uxNwJGcvfcCnlB7tV/
+Z5YZ22Wgb4JGtkb8iTw4cFEBmJMdz06fQXesSqc7+hJID96ojQDwDmFrFw==
 -----END CERTIFICATE-----
-EOF
-
-cat << EOF > /etc/openvpn/easy-rsa/keys/server.key
------BEGIN PRIVATE KEY-----
-MIICdQIBADANBgkqhkiG9w0BAQEFAASCAl8wggJbAgEAAoGBAM41I9hdn7aby2qJ
-4ZCvQt9f+L2tp3iayiDwPVvWye9MSpmWwzj9WbTXZe3Up/qrA+K+iC/K/JDdsLe8
-I8uDrDbiAVdpZLjhnlHwpp0T2ZJrTQSmEGSjP2v//jKskWPCcSS+nnZPh8w6A6Ge
-SD8RkjM7GRac0F0W7sFCZ5lHZmdnAgMBAAECgYAFNrC+UresDUpaWjwaxWOidDG8
-0fwu/3Lm3Ewg21BlvX8RXQ94jGdNPDj2h27r1pEVlY2p767tFr3WF2qsRZsACJpI
-qO1BaSbmhek6H++Fw3M4Y/YY+JD+t1eEBjJMa+DR5i8Vx3AE8XOdTXmkl/xK4jaB
-EmLYA7POyK+xaDCeEQJBAPJadiYd3k9OeOaOMIX+StCs9OIMniRz+090AJZK4CMd
-jiOJv0mbRy945D/TkcqoFhhScrke9qhgZbgFj11VbDkCQQDZ0aKBPiZdvDMjx8WE
-y7jaltEDINTCxzmjEBZSeqNr14/2PG0X4GkBL6AAOLjEYgXiIvwfpoYE6IIWl3re
-ebCfAkAHxPimrixzVGux0HsjwIw7dl//YzIqrwEugeSG7O2Ukpz87KySOoUks3Z1
-yV2SJqNWskX1Q1Xa/gQkyyDWeCeZAkAbyDBI+ctc8082hhl8WZunTcs08fARM+X3
-FWszc+76J1F2X7iubfIWs6Ndw95VNgd4E2xDATNg1uMYzJNgYvcTAkBoE8o3rKkp
-em2n0WtGh6uXI9IC29tTQGr3jtxLckN/l9KsJ4gabbeKNoes74zdena1tRdfGqUG
-JQbf7qSE3mg2
------END PRIVATE KEY-----
