@@ -1,6 +1,6 @@
 [Unit]
-Description=dexter service
-Documentation=http://mediatekvpn.com
+Description=dxplusdev service
+Documentation=http://dxplusdev.com
 
 [Service]
 Type=oneshot
@@ -8,4 +8,5 @@ ExecStart=/bin/bash /etc/rc.local
 RemainAfterExit=yes
 
 [Install]
+
 WantedBy=multi-user.target
