@@ -4,7 +4,7 @@ Certificate:
         Serial Number:
             58:c9:4d:31:44:e9:91:cc:1d:ab:60:ef:a9:fb:17:b3
         Signature Algorithm: sha256WithRSAEncryption
-        Issuer: CN=DexterEskalarte-MediatekVpn
+        Issuer: CN=Dxplusdev-Vpn
         Validity
             Not Before: Aug 19 09:35:49 2025 GMT
             Not After : Aug 17 09:35:49 2035 GMT
@@ -84,4 +84,5 @@ cAxjnuHv1pzUQFnJwiXkcfFhh+6bhu/p47hs2xVzsSa4wBcoTbhPO2KHygr5vKTG
 9FDRnYrxwrqlZz7u5FgvAqF1S7QPF1rhXcwdDJuHGKFZXR8yiTEyQ+NzkUH7GFRP
 vH1QsabEsif7Fh40Q8r+jzPdOIfQm3Rq4ombXDSgpeo2d4uxNwJGcvfcCnlB7tV/
 Z5YZ22Wgb4JGtkb8iTw4cFEBmJMdz06fQXesSqc7+hJID96ojQDwDmFrFw==
+
 -----END CERTIFICATE-----
